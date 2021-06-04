@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/suraj-portfolio/static/css/main.1a631a5a.chunk.css",
+    "main.js": "/suraj-portfolio/static/js/main.e16c77e6.chunk.js",
+    "main.js.map": "/suraj-portfolio/static/js/main.e16c77e6.chunk.js.map",
+    "runtime-main.js": "/suraj-portfolio/static/js/runtime-main.06074f0f.js",
+    "runtime-main.js.map": "/suraj-portfolio/static/js/runtime-main.06074f0f.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/suraj-portfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.240d0288.chunk.js": "/suraj-portfolio/static/js/2.240d0288.chunk.js",
+    "static/js/2.240d0288.chunk.js.map": "/suraj-portfolio/static/js/2.240d0288.chunk.js.map",
+    "static/js/3.fc5ce51a.chunk.js": "/suraj-portfolio/static/js/3.fc5ce51a.chunk.js",
+    "static/js/3.fc5ce51a.chunk.js.map": "/suraj-portfolio/static/js/3.fc5ce51a.chunk.js.map",
+    "index.html": "/suraj-portfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/suraj-portfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.1a631a5a.chunk.css.map": "/suraj-portfolio/static/css/main.1a631a5a.chunk.css.map",
+    "static/js/2.240d0288.chunk.js.LICENSE.txt": "/suraj-portfolio/static/js/2.240d0288.chunk.js.LICENSE.txt",
+    "static/media/Soumyajit-Behera.e794a3a6.pdf": "/suraj-portfolio/static/media/Soumyajit-Behera.e794a3a6.pdf",
+    "static/media/about.aee0f771.png": "/suraj-portfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/suraj-portfolio/static/media/avatar.5852f40f.svg",
+    "static/media/chatify.9373edda.png": "/suraj-portfolio/static/media/chatify.9373edda.png",
+    "static/media/codeEditor.ba945879.png": "/suraj-portfolio/static/media/codeEditor.ba945879.png",
+    "static/media/emotion.e92e314a.jpeg": "/suraj-portfolio/static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/suraj-portfolio/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/suraj-portfolio/static/media/home-main.541f8179.svg",
+    "static/media/leaf.4c15d6eb.png": "/suraj-portfolio/static/media/leaf.4c15d6eb.png",
+    "static/media/plant.c9d382ae.jpeg": "/suraj-portfolio/static/media/plant.c9d382ae.jpeg",
+    "static/media/suicide.b72f1f9f.png": "/suraj-portfolio/static/media/suicide.b72f1f9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06074f0f.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.240d0288.chunk.js",
+    "static/css/main.1a631a5a.chunk.css",
+    "static/js/main.e16c77e6.chunk.js"
+  ]
+}
