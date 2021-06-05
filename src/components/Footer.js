@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by SURAJ BHOSALE</h3>
+          <h3>Designed and Developed by Suraj Bhosale</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+          <h3>Copyright © {year} Suraj Bhosale</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/soumyajit4419"
+                href="https://github.com/SurajBTester"
                 style={{ color: "white" }}
               >
                 <AiFillGithub />
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://twitter.com/Surajbh41524220"
                 style={{ color: "white" }}
               >
                 <AiOutlineTwitter />
@@ -47,7 +47,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                href="https://www.instagram.com/being_sirbhosale_/"
                 style={{ color: "white" }}
               >
                 <AiFillInstagram />
