@@ -10,8 +10,12 @@ import {
   AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
+  AiFillYoutube,
   AiOutlineUser,
+  AiFillBook,
+  AiFillRocket
 } from "react-icons/ai";
+import { FaRupeeSign, FaBookReader } from "react-icons/fa";
 
 import { CgFileDocument } from "react-icons/cg";
 
@@ -57,6 +61,7 @@ function NavBar() {
                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
               </Nav.Link>
             </Nav.Item>
+
             <Nav.Item>
               <Nav.Link
                 as={Link}
@@ -66,6 +71,7 @@ function NavBar() {
                 <AiOutlineUser style={{ marginBottom: "2px" }} /> About
               </Nav.Link>
             </Nav.Item>
+
             <Nav.Item>
               <Nav.Link
                 as={Link}
@@ -78,19 +84,44 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/istqb"
+                onClick={() => updateExpanded(false)}
+              >
+                  <FaBookReader style={{ marginBottom: "2px" }}
+                />{" "}
+                ISTQB
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/crypto"
+                onClick={() => updateExpanded(false)}
+              >
+                 <FaRupeeSign style={{ marginBottom: "2px" }}
+                />{" "}
+                Crypto Updates
+              </Nav.Link>
+            </Nav.Item>
+
             <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/resume"
                 onClick={() => updateExpanded(false)}
-              >
+              >  
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/soumyajit4419/Portfolio"
+                href="https://github.com/mr-suraj-bhosale/mr-suraj-bhosale.github.io"
                 target="_blank"
                 className="fork-btn-inner"
               >

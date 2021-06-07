@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/SurajBTester"
+                href="https://github.com/mr-suraj-bhosale/mr-suraj-bhosale.github.io"
                 style={{ color: "white" }}
               >
                 <AiFillGithub />
